@@ -8,4 +8,7 @@ This small application parses Top 250 movies from Wiki, sorts them by director a
 Ruby
 
 ## Run
-```main.rb```
+
+```
+main.rb
+```
